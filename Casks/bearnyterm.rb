@@ -1,6 +1,6 @@
 cask "bearnyterm" do
-  version "0.10.0"
-  sha256 "2c6dbdeb3b0374788aef010c27ab51f36cab923402f67ffd59493ecde0399173"
+  version "0.10.1"
+  sha256 "2c800b658724c8766351638ac17ca3e263c64eacd2aeb404a4434001e799dfa6"
 
   url "https://github.com/bearny-codes/homebrew-bearny.codes/releases/download/v#{version}/BearnyTerm.dmg"
   name "BearnyTerm"
